@@ -1,4 +1,4 @@
-# fleet-apt-poc# Fleet APT 分階段派送 PoC
+# Fleet APT 分階段派送 PoC
 
 用 aptly + nginx + unattended-upgrades 建立 Ring-based 套件派送，
 在三台 Incus container 上完成九個 Gate 的驗證。
